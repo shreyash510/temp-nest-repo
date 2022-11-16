@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'test-app-nestjs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92387519C8F44DA7A74A27EAD200EC88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09F493C0E27945E19013663B4EE1251F }}
           package: .
